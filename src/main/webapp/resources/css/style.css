@@ -1,0 +1,193 @@
+body {
+    color: #000000;
+    font: 12px/170% Verdana, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Verdana,Helvetica,Arial,sans-serif;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    color: #AF1919;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 21px;
+    margin: 30px 0 0 10px;
+    padding: 0 0 0 10px;
+}
+
+.menu {
+    float: right;
+}
+
+.menu a {
+    margin-right: 50px;
+}
+
+.main {
+    margin-left: 20px;
+}
+
+.footer {
+    margin: 70px 0px 0px 20px;
+    font-size: smaller;
+}
+
+.contactInfo {
+    margin-top: 10px;
+}
+
+.contactInfo div {
+    margin-bottom: 2px;
+}
+
+.fleetUploadForm {
+    margin-top: 10px;
+}
+
+table.fleetScanList {
+    border-width: thin;
+    border-style: outset;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+table.fleetScanList th {
+    border-width: thin;
+    padding: 2px;
+    border-style: inset;
+}
+
+table.fleetScanList td {
+    width: 150px;
+    padding: 2px;
+    text-align: center;
+    border-width: thin;
+    border-style: inset;
+}
+
+table.fleetScanList td.text {
+    padding-left: 5px;
+    text-align: left;
+}
+
+table.resultTable {
+    border-width: thin;
+    border-style: outset;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+table.resultTable th {
+    border-width: thin;
+    padding: 2px;
+    border-style: inset;
+}
+
+table.resultTable td {
+    width: 150px;
+    padding: 2px;
+    text-align: center;
+    border-width: thin;
+    border-style: inset;
+}
+
+table.resultTable td.text {
+    padding-left: 5px;
+    text-align: left;
+}
+
+table.resultTable td.numbers {
+    padding-right: 5px;
+    text-align: right;
+}
+
+td.text {
+    padding-left: 5px;
+    text-align: left;
+}
+
+td.numbers {
+    padding-right: 5px;
+    text-align: right;
+}
+
+.inputLabel {
+    width: 185px;
+    height: 20px;
+    text-align: left;
+    float: left;
+    margin-right: 20px;
+}
+
+.adminMenu {
+    margin-top: 10px;
+}
+
+.adminMenu div {
+    margin-bottom: 10px;
+}
+
+.marginBottom {
+    margin-bottom: 10px;
+}
+
+.errorLabel {
+    display: inline;
+    color: red;
+}
+
+.errorLabelHidden {
+    visibility:hidden;
+    color: white;
+}
+
+.marginBottom {
+    margin-bottom: 7px;
+}
+
+.bodyMargin {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.leftFloatingLabel {
+    width: 160px;
+    text-align: left;
+    float: left;
+}
+
+.longLeftFloatingLabel {
+    width: 295px;
+    text-align: left;
+    float: left;
+}
+
+.rightFloatingLabel {
+    width: 200px;
+    text-align: right;
+}
+
+.enrichedTableRow, .staticDataTableRow {
+    width: 150px;
+    text-align: center;
+}
+
+.moreWidthTableRow {
+    width: 180px;
+    text-align: center;
+}
+
+.nonEnrichedTableRow {
+    background-color: #FF8888;
+    width: 150px;
+    text-align: center;
+}
+
+.borderColorRed {
+    border-color: red;
+    border-width: 3px;
+}

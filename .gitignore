@@ -1,0 +1,11 @@
+.classpath
+.project
+.settings
+Core/target
+WebApp/target
+*.iml
+*.ipr
+*.iws
+*.log*
+*log4j.properties
+*.properties.development
